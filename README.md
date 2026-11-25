@@ -1,6 +1,6 @@
 # Deep Learning Labs
 
-Lab reports as executed Jupyter notebooks ([lab1](lab1/lab1.ipynb), [lab3](lab3/lab3.ipynb)). Each notebook downloads its Kaggle data on first run and can submit at the end.
+Lab reports as executed Jupyter notebooks ([lab1](lab1/lab1.ipynb), [lab2](lab2/lab2.ipynb), [lab3](lab3/lab3.ipynb)). Each notebook downloads its Kaggle data on first run and can submit at the end.
 
 ## Run
 
